@@ -7,7 +7,7 @@ import './index.scss'
             <div className='container-tags'>
 
                 <div className='logo'>
-                    <img src="/public/assets/images/logo.png" alt="" />
+                    <img src="/public/assets/images/LogoDoeVida.png" alt="" />
                 </div>
 
                 <div className='tags'>
