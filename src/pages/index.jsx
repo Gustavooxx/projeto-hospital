@@ -10,6 +10,19 @@ import './index.scss'
                     <img src="/public/assets/images/logo.png" alt="" />
                 </div>
 
+                <div className='barra-pesquisa'>
+
+                    <div className='image-lupa'>
+                        
+                    <img src="/public/assets/images/lupa.png" alt="lupa" />
+                    </div>
+
+                    <div className='pesquisa'>
+
+                    <input type="text" id="nomeInput" placeholder="Pesquisar" />
+                    </div>
+                </div>
+
                 <div className='tags'>
                     <p>Inicio</p>
                     <p>Sobre</p>
