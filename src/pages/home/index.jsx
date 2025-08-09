@@ -29,7 +29,7 @@ import './index.scss'
                     <p>Como Doar</p>
                     <p>Agendar</p>
 
-                    <button>Quero Doar</button>
+                    <button>Login</button>
                 </div>
 
             </div>
