@@ -1,4 +1,6 @@
+import { Link } from 'react-router';
 import './index.scss'
+import { Link } from 'react-router';
 
  export default function Site() {
     return(
@@ -24,10 +26,8 @@ import './index.scss'
                 </div>
 
                 <div className='tags'>
-                    <p>Inicio</p>
-                    <p>Sobre</p>
-                    <p>Como Doar</p>
-                    <p>Agendar</p>
+                    <Link on></Link>
+
 
                     <button>Login</button>
                 </div>
