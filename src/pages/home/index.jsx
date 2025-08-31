@@ -1,6 +1,5 @@
 import { Link } from 'react-router';
 import './index.scss'
-import { Link } from 'react-router';
 
  export default function Site() {
     return(
